@@ -1,2 +1,2 @@
-# Laborat-rioDePrograma-o
+# LaboratorioDeProgramacao
 ⚑ Material da Disciplina INF029
